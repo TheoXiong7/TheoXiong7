@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Theo</h1>
 <h3 align="center">Computer Engineering student at The University of Illinois at Urbana-Champaign</h3>
 
-- Website [www.theoxiong.com](www.theoxiong.com)
-
 - Email **tyxiong2@illinois.edu**
 
 <h3 align="left">Connect with me:</h3>
